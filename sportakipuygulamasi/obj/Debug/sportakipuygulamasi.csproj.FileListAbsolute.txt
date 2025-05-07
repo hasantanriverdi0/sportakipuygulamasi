@@ -1,0 +1,16 @@
+C:\Users\hasan\source\repos\sportakipuygulamasi\sportakipuygulamasi\bin\Debug\sportakipuygulamasi.exe.config
+C:\Users\hasan\source\repos\sportakipuygulamasi\sportakipuygulamasi\bin\Debug\sportakipuygulamasi.exe
+C:\Users\hasan\source\repos\sportakipuygulamasi\sportakipuygulamasi\bin\Debug\sportakipuygulamasi.pdb
+C:\Users\hasan\source\repos\sportakipuygulamasi\sportakipuygulamasi\obj\Debug\sportakipuygulamasi.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\sportakipuygulamasi\sportakipuygulamasi\obj\Debug\sportakipuygulamasi.anasayfa.resources
+C:\Users\hasan\source\repos\sportakipuygulamasi\sportakipuygulamasi\obj\Debug\sportakipuygulamasi.giris.resources
+C:\Users\hasan\source\repos\sportakipuygulamasi\sportakipuygulamasi\obj\Debug\sportakipuygulamasi.Properties.Resources.resources
+C:\Users\hasan\source\repos\sportakipuygulamasi\sportakipuygulamasi\obj\Debug\sportakipuygulamasi.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\sportakipuygulamasi\sportakipuygulamasi\obj\Debug\sportakipuygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\sportakipuygulamasi\sportakipuygulamasi\obj\Debug\sportakipuygulamasi.exe
+C:\Users\hasan\source\repos\sportakipuygulamasi\sportakipuygulamasi\obj\Debug\sportakipuygulamasi.pdb
+C:\Users\hasan\source\repos\sportakipuygulamasi\sportakipuygulamasi\obj\Debug\sportakipuygulamasi.egzersiz.resources
+C:\Users\hasan\source\repos\sportakipuygulamasi\sportakipuygulamasi\obj\Debug\sportakipuygulamasi.kayit.resources
+C:\Users\hasan\source\repos\sportakipuygulamasi\sportakipuygulamasi\obj\Debug\sportakipuygulamasi.guncelle.resources
+C:\Users\hasan\source\repos\sportakipuygulamasi\sportakipuygulamasi\obj\Debug\sportakipuygulamasi.profil.resources
+C:\Users\hasan\source\repos\sportakipuygulamasi\sportakipuygulamasi\obj\Debug\sportakipuygulamasi.antrenör.resources
